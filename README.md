@@ -5,6 +5,12 @@ Analysis and interpretation of a dataset about road accidents in Belgium in 2019
 
 2019: https://data.gov.be/fr/node/117812
 
+Why is there an accident ?
+Factors ? Light ? Speed ? Time of the year ?
+
+Why dead people ?
+Factors ? ... ?
+
 # Data analysis
 
 ## Road accident general stats
